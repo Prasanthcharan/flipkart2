@@ -1,0 +1,2 @@
+flipkart.App=org.springframework.stereotype.Component
+flipkart.GreetingController=org.springframework.stereotype.Component
